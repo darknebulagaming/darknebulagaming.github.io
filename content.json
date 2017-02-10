@@ -1,0 +1,285 @@
+{
+ "address": "1MJG69o6vifAzu9fucAq8eDUv2hStjNXmk",
+ "description": "WIP Gaming Community Site",
+ "files": {
+  "BLOKKRegular.woff": {
+   "sha512": "1fede1e00075a7d83f6b265cfa92be9f6982d7de8cbf58a534002b646daaaf23",
+   "size": 2212
+  },
+  "LICENSE": {
+   "sha512": "e56523f3f08df86a24414345767fbdb92fc7d6b6701a77ca49204cde71d30f69",
+   "size": 11336
+  },
+  "README.md": {
+   "sha512": "3884fd80a686a80b834adaf45cc76c6ee9215015edff879242effd9c8a6e779d",
+   "size": 1523
+  },
+  "css/grayscale.css": {
+   "sha512": "75d524708b76786c503dfcb3fa3226a93585ddcdbf43811a45334023bb8152e4",
+   "size": 7567
+  },
+  "css/grayscale.min.css": {
+   "sha512": "7728771f05d757ed890034da129464a90050ce62f16972234a2dbf2af48d3dc5",
+   "size": 5230
+  },
+  "gulpfile.js": {
+   "sha512": "0343c87879f9f05b375d16d324d682523aa12bcd6c7a913b8854872715a85ce4",
+   "size": 3379
+  },
+  "img/downloads-bg.jpg": {
+   "sha512": "e6cc193bd89fa2e240dac04cc40cc4c72ae08adaa18ec356335b59ed0b34e377",
+   "size": 754860
+  },
+  "img/intro-bg.jpg": {
+   "sha512": "c3728a72afd3362ba63e1cd253373531dab037f8932a1c02fbb4e162ca3d95ad",
+   "size": 980906
+  },
+  "img/map-marker.png": {
+   "sha512": "ebf294e4318fea1da5e6bc8065d290388e4d1f3c04ca46e79bc081809b498f3c",
+   "size": 1072
+  },
+  "index.html": {
+   "sha512": "c92379f9f54e3bc64ee263532cbb05c436ba7f32bb791914fac72f34444525cd",
+   "size": 7812
+  },
+  "js/grayscale.js": {
+   "sha512": "5d3aa927514cb4d8fdd276887e3a5c614f95bdf3c3f3c9c057f80b81c5a8c8fa",
+   "size": 5672
+  },
+  "js/grayscale.min.js": {
+   "sha512": "1332916b65c963b3fe34f3bfc25d0defc7d47e0ac03ba1d4cf4e3a92eb3256e7",
+   "size": 2556
+  },
+  "less/grayscale.less": {
+   "sha512": "67dfa202eb277aecd75a780378a3c0b291c8d4a77a9309f2c9fb7c40703428f5",
+   "size": 7315
+  },
+  "less/mixins.less": {
+   "sha512": "909ebf258ceeb1fe6f408ed054b7149958619e2713e18d1af9dc5166ec532377",
+   "size": 10
+  },
+  "less/variables.less": {
+   "sha512": "6d620860430ae258d8804f78bfc1fa7fb5721150f0db2b785e6b72b2aa9e3efd",
+   "size": 32
+  },
+  "login.html": {
+   "sha512": "5ce7fe50a3b2734fb80f959cb85ab36e2a9ca291f8442712fcd0efa1623c795b",
+   "size": 4465
+  },
+  "package.json": {
+   "sha512": "cbcb11a02ea9b6d5a17b2fb3cea086d7851403861c3338c049e4e292a506e173",
+   "size": 729
+  },
+  "sass/BLOKKRegular.eot": {
+   "sha512": "f3a0c198ea134d25ffb5d74a771dc5944696ce66bdc62d3e0c8d8754fc7d00ae",
+   "size": 6196
+  },
+  "sass/_mixins.scss": {
+   "sha512": "909ebf258ceeb1fe6f408ed054b7149958619e2713e18d1af9dc5166ec532377",
+   "size": 10
+  },
+  "sass/_variables.scss": {
+   "sha512": "62d1f8f0c263a66a341b194f9f3cb22404369ceb9915cd631c7a02b78b79710c",
+   "size": 33
+  },
+  "sass/grayscale.scss": {
+   "sha512": "0c56b31493e30e00a91d812105cceb3c21b78a47992557d2ee0e9c37b533f3f5",
+   "size": 7294
+  },
+  "vendor/bootstrap/css/bootstrap.css": {
+   "sha512": "1dd5dbbfc97238d0f551ebb2d28ac8a295611709735b27327d21bd62f151f3c4",
+   "size": 146082
+  },
+  "vendor/bootstrap/css/bootstrap.min.css": {
+   "sha512": "9cda3ec821c4ca7d2c98cc52b309dffce9d7ebf2b026e65394d6418dab8a8532",
+   "size": 121260
+  },
+  "vendor/bootstrap/fonts/glyphicons-halflings-regular.eot": {
+   "sha512": "efc910c96b9f5c58ea11a84577cf60ae995503b1ee670bb7e7d4a413b7403769",
+   "size": 20127
+  },
+  "vendor/bootstrap/fonts/glyphicons-halflings-regular.svg": {
+   "sha512": "c2e77eab327af1469097c31bc0daf820c066b0222059d8ff0ecebca974b62b75",
+   "size": 108738
+  },
+  "vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf": {
+   "sha512": "2b066e06506ef20d69698d37cdec552176ef3f64a1151a99a1d02d72d39ce12c",
+   "size": 45404
+  },
+  "vendor/bootstrap/fonts/glyphicons-halflings-regular.woff": {
+   "sha512": "f5366ab255afefe3fe06150e8509e776b5618ff50fe3e0fa8e4d715d645b1e44",
+   "size": 23424
+  },
+  "vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2": {
+   "sha512": "3811804f56ec3c82f0bef35de0a9250e546a1e357fb59e2784f610d638fec355",
+   "size": 18028
+  },
+  "vendor/bootstrap/js/bootstrap.js": {
+   "sha512": "cf1c9af1a6ae1477c31bcfd2bc5e19a2382f71d2a8ed879d99aa62e5a1e1fc8c",
+   "size": 68954
+  },
+  "vendor/bootstrap/js/bootstrap.min.js": {
+   "sha512": "d9ef2aab411371f5912381c9073422037528c8593ab5b3721bea926880592f25",
+   "size": 36868
+  },
+  "vendor/font-awesome/css/font-awesome.css": {
+   "sha512": "328efd96b43851e716f0e09c4546737f49ed7cc360a4e151e3a01c8f666d58ef",
+   "size": 35134
+  },
+  "vendor/font-awesome/css/font-awesome.min.css": {
+   "sha512": "e2e1991e96c3962371880bff43364da3fc9bd85b405feaa20dbef2a415a211d2",
+   "size": 29063
+  },
+  "vendor/font-awesome/fonts/FontAwesome.otf": {
+   "sha512": "37c86662e62100b8f50647328656f851af41db3167ec18b373163632136e733c",
+   "size": 124988
+  },
+  "vendor/font-awesome/fonts/fontawesome-webfont.eot": {
+   "sha512": "b580a871780eceabe0418627ebf9557c682264947816783befd4a2b1f405ad5f",
+   "size": 76518
+  },
+  "vendor/font-awesome/fonts/fontawesome-webfont.svg": {
+   "sha512": "cd4c1d6756aa4d8e98ef4f7549ef2d73cc407bbba17a22ba31ddefbf74cd51de",
+   "size": 391622
+  },
+  "vendor/font-awesome/fonts/fontawesome-webfont.ttf": {
+   "sha512": "70e5aa1fc883d453e3dd3386e6c5f5839af852d8b67123d43a5ea89e8c6c94c5",
+   "size": 152796
+  },
+  "vendor/font-awesome/fonts/fontawesome-webfont.woff": {
+   "sha512": "6d465acf39b4cdb365bfdc32ea06637a9f14ed1c1508353a7e0627b6b88efe8a",
+   "size": 90412
+  },
+  "vendor/font-awesome/fonts/fontawesome-webfont.woff2": {
+   "sha512": "dd945face918edf20b7283b7416ae7b3735269945e3f3e379e770425024c1de1",
+   "size": 71896
+  },
+  "vendor/font-awesome/less/animated.less": {
+   "sha512": "285de8b339ae691c8c95230462b8760949850ecbd1a4f8b98b0f85347f1187ca",
+   "size": 713
+  },
+  "vendor/font-awesome/less/bordered-pulled.less": {
+   "sha512": "666a33697b525aa25d773c94360b96dd6ff833dedf99178af931b040aa93239c",
+   "size": 585
+  },
+  "vendor/font-awesome/less/core.less": {
+   "sha512": "88b310200bdd13129f343e8f9b581e3a376fd5aec4c7a604815101774d31ca3f",
+   "size": 452
+  },
+  "vendor/font-awesome/less/fixed-width.less": {
+   "sha512": "b7bf0de65815043012e95e8b1bac895e85c9a07c047c99ba4f5c132a00ace5ae",
+   "size": 119
+  },
+  "vendor/font-awesome/less/font-awesome.less": {
+   "sha512": "d1ea5fa53d9d11914be24322b62fce48a48eae319ccc34d78599e8003e5b0362",
+   "size": 495
+  },
+  "vendor/font-awesome/less/icons.less": {
+   "sha512": "4027751e684ffe175d0ec4a3d5d62baa7ea61a196a4006b12f4334e33abc1475",
+   "size": 46249
+  },
+  "vendor/font-awesome/less/larger.less": {
+   "sha512": "5ba01d3b3c917dfcc0bf20a283397e677d420addb83c74d29f81d77658105c8d",
+   "size": 370
+  },
+  "vendor/font-awesome/less/list.less": {
+   "sha512": "a13c48c3ab87469b5e720287f5f1720f0588bb45a0700968879cbba7ba008d07",
+   "size": 377
+  },
+  "vendor/font-awesome/less/mixins.less": {
+   "sha512": "9fba58dc30953169340a57fcda1b3dcccbe69cb9ee5ad3e29e53719fb185f4b4",
+   "size": 1603
+  },
+  "vendor/font-awesome/less/path.less": {
+   "sha512": "2214dadd8025d0da912ee4e0366a25b6d521f61ad04cd61c0b13140a9465d771",
+   "size": 771
+  },
+  "vendor/font-awesome/less/rotated-flipped.less": {
+   "sha512": "a906cde529bac0abc118201866c6e81ceed53ea5859795ebe87e52e1d04f1c32",
+   "size": 622
+  },
+  "vendor/font-awesome/less/screen-reader.less": {
+   "sha512": "7d5c0d28b78b9c24b6af0181f8bf72d1b7bf20c45edbf1594da8b4c8391dd249",
+   "size": 118
+  },
+  "vendor/font-awesome/less/stacked.less": {
+   "sha512": "0f07e1507d430c8ade9cbf2460c8148d69fdce6b5b7c659247953e0e0235c512",
+   "size": 476
+  },
+  "vendor/font-awesome/less/variables.less": {
+   "sha512": "49cf038e413b8836621fc834fa69cc72a2f71437c87957a6a0bd200d670696ac",
+   "size": 20890
+  },
+  "vendor/font-awesome/scss/_animated.scss": {
+   "sha512": "5d8be64ce5136d02dcc2dc38341491c2cafca5633a8bbcf6bc6931da2ec95e2e",
+   "size": 715
+  },
+  "vendor/font-awesome/scss/_bordered-pulled.scss": {
+   "sha512": "01095953afd37d399f8715168a67a2e60c23623f3ead4eb4360f8800e30cb957",
+   "size": 592
+  },
+  "vendor/font-awesome/scss/_core.scss": {
+   "sha512": "78b807ddc8ac17eebfd4f59eb923a7f8bac8e7b76bc83985d593382b1964f1d9",
+   "size": 459
+  },
+  "vendor/font-awesome/scss/_fixed-width.scss": {
+   "sha512": "27392694f9bd1a671cd21517721a86c24725c51fcad4acaf09cb75a9e36bea34",
+   "size": 120
+  },
+  "vendor/font-awesome/scss/_icons.scss": {
+   "sha512": "db093701fb74eecd9a9b1b97f15727701f96c26a6448814d5b156c3dbbe0d534",
+   "size": 46979
+  },
+  "vendor/font-awesome/scss/_larger.scss": {
+   "sha512": "ed6e63e7cdc9bae34810146c3dfd52b912f7b20219555994249f6f3dbd528673",
+   "size": 375
+  },
+  "vendor/font-awesome/scss/_list.scss": {
+   "sha512": "d8b110a513c41ba8a00620143aa01b2bca59f21306b64e96cb82e4739ea88bed",
+   "size": 378
+  },
+  "vendor/font-awesome/scss/font-awesome.scss": {
+   "sha512": "23051c7f99ba344a4a3bad425611624511015fb54ce87cb51ba0a0c5c572ea6a",
+   "size": 430
+  },
+  "vendor/jquery/jquery.js": {
+   "sha512": "8cac69ec91c437aa5e126ce683a6bb5c904e44d4c1d084c3d8f8bee85524735e",
+   "size": 293430
+  },
+  "vendor/jquery/jquery.min.js": {
+   "sha512": "8c6b0c1fcde829ef5ab02a643959019d4ac30d3a7cc25f9a7640760fefff26d9",
+   "size": 97163
+  },
+  "webfonts/BLOKKRegular.svg": {
+   "sha512": "cdab300c79a87dbc2b76657135bacb3da6c45e25b9fb90fa199ed2affeeaf52f",
+   "size": 9057
+  },
+  "webfonts/BLOKKRegular.ttf": {
+   "sha512": "65ccb5c4b6a864843ca4bfc253b6691d6adcc1897a329bfd117365df14a783f8",
+   "size": 7088
+  },
+  "webfonts/BLOKKRegular.woff": {
+   "sha512": "1fede1e00075a7d83f6b265cfa92be9f6982d7de8cbf58a534002b646daaaf23",
+   "size": 2212
+  },
+  "webfonts/font.css": {
+   "sha512": "4a448351fc9a75513a1990139199541b6e740079e7e0fc32f31fbfc12e69815a",
+   "size": 352
+  }
+ },
+ "ignore": "",
+ "inner_path": "content.json",
+ "modified": 1470171207.009,
+ "postmessage_nonce_security": true,
+ "sign": [
+  1796899886326238472186457875884366425014531133611542268647745840305668176670,
+  50315260151232366504950141120906110750372744741040528347267393214152267881083
+ ],
+ "signers_sign": "HLJVDNLYQapGf36Uk5HX74dpPpjPwYuk/FXVnyfoiT23TUOWfe0xKciIt6UFMfO6uct88Cq4Q3QKK+940QMtjj4=",
+ "signs": {
+  "1MJG69o6vifAzu9fucAq8eDUv2hStjNXmk": "HETw1yt1s6wT9OyLJfaWhZOJ6HxUsYix7R3EdnrQ5KM9QUgMdZt2sYPUr7uMcGUT31zDoaPUQD2BoVeaDscmms0="
+ },
+ "signs_required": 1,
+ "title": "DarkNebula",
+ "zeronet_version": "0.3.7"
+}
